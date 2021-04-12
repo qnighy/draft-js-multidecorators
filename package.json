@@ -1,6 +1,6 @@
 {
-  "name": "draft-js-multidecorators",
-  "version": "1.0.0",
+  "name": "@qnighy/draft-js-multidecorators",
+  "version": "1.1.0-alpha.0",
   "description": "Combine multiple decorators for DraftJS",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamyPesse/draft-js-multidecorators.git"
+    "url": "git+https://github.com/qnighy/draft-js-multidecorators.git"
   },
   "keywords": [
     "draft-js"
   ],
   "author": "Samy Pesse <samypesse@gmail.com>",
+  "contributors": [
+    "Masaki Hara <ackie.h.gmai@gmail.com>"
+  ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SamyPesse/draft-js-multidecorators/issues"
+    "url": "https://github.com/qnighy/draft-js-multidecorators/issues"
   },
-  "homepage": "https://github.com/SamyPesse/draft-js-multidecorators#readme",
+  "homepage": "https://github.com/qnighy/draft-js-multidecorators#readme",
   "dependencies": {
     "immutable": "*"
   },
