@@ -9,6 +9,8 @@
 - Forked as `@qnighy/draft-js-multidecorators`.
 - Fixed
   - pass contentState through to decorators https://github.com/SamyPesse/draft-js-multidecorators/pull/1
+- Misc
+  - Migrated to GitHub Actions
 
 ## 1.0.0
 
