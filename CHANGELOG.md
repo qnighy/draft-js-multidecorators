@@ -1,3 +1,8 @@
+## Unpublished
+
+- Misc
+  - Add a credit
+
 ## 1.1.0
 
 - Forked as `@qnighy/draft-js-multidecorators`.
