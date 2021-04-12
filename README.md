@@ -1,6 +1,6 @@
 # draft-js-multidecorators
 
-[![Build Status](https://travis-ci.org/SamyPesse/draft-js-multidecorators.png?branch=master)](https://travis-ci.org/SamyPesse/draft-js-multidecorators)
+[![Build Status](https://github.com/qnighy/draft-js-multidecorators/actions/workflows/ci.yml/badge.svg)](https://github.com/qnighy/draft-js-multidecorators/actions/workflows/ci.yml)
 [![NPM version](https://badge.fury.io/js/draft-js-multidecorators.svg)](http://badge.fury.io/js/draft-js-multidecorators)
 
 
