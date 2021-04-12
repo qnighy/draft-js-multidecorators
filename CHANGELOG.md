@@ -2,6 +2,7 @@
 
 - Misc
   - Add a credit
+  - Fix badge
 
 ## 1.1.0
 

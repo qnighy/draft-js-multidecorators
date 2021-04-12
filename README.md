@@ -1,7 +1,7 @@
 # draft-js-multidecorators
 
 [![Build Status](https://github.com/qnighy/draft-js-multidecorators/actions/workflows/ci.yml/badge.svg)](https://github.com/qnighy/draft-js-multidecorators/actions/workflows/ci.yml)
-[![NPM version](https://badge.fury.io/js/@qnighy/draft-js-multidecorators.svg)](http://badge.fury.io/js/@qnighy/draft-js-multidecorators)
+[![npm version](https://badge.fury.io/js/%40qnighy%2Fdraft-js-multidecorators.svg)](https://badge.fury.io/js/%40qnighy%2Fdraft-js-multidecorators)
 
 
 > Combine multiple Draft's decorators into one.
